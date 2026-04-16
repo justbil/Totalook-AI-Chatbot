@@ -1,0 +1,86 @@
+[
+  {
+    "booking_id": "BK023",
+    "nama_pelanggan": "Rina Kusuma",
+    "no_hp": "08112345001",
+    "layanan_id": "L001",
+    "layanan_nama": "Potong Rambut Wanita",
+    "tanggal": "2026-04-10",
+    "jam": "09:00",
+    "status": "Selesai",
+    "total_harga": 75000,
+    "estimasi_selesai": "09:45"
+  },
+  {
+    "booking_id": "BK024",
+    "nama_pelanggan": "Sari Dewi",
+    "no_hp": "08112345002",
+    "layanan_id": "L003",
+    "layanan_nama": "Creambath",
+    "tanggal": "2026-04-11",
+    "jam": "13:00",
+    "status": "Selesai",
+    "total_harga": 120000,
+    "estimasi_selesai": "14:00"
+  },
+  {
+    "booking_id": "BK025",
+    "nama_pelanggan": "Diah Pratiwi",
+    "no_hp": "08112345003",
+    "layanan_id": "L004",
+    "layanan_nama": "Cat Rambut",
+    "tanggal": "2026-04-15",
+    "jam": "10:00",
+    "status": "Terkonfirmasi",
+    "total_harga": 200000,
+    "estimasi_selesai": "11:30"
+  },
+  {
+    "booking_id": "BK026",
+    "nama_pelanggan": "Budi Santoso",
+    "no_hp": "08112345004",
+    "layanan_id": "L002",
+    "layanan_nama": "Potong Rambut Pria",
+    "tanggal": "2026-04-15",
+    "jam": "14:00",
+    "status": "Terkonfirmasi",
+    "total_harga": 50000,
+    "estimasi_selesai": "14:30"
+  },
+  {
+    "booking_id": "BK027",
+    "nama_pelanggan": "Maya Anggraeni",
+    "no_hp": "08112345005",
+    "layanan_id": "L007",
+    "layanan_nama": "Hair Mask",
+    "tanggal": "2026-04-18",
+    "jam": "11:00",
+    "status": "Terkonfirmasi",
+    "total_harga": 85000,
+    "estimasi_selesai": "11:45"
+  },
+  {
+    "booking_id": "BK028",
+    "nama_pelanggan": "Tika Rahayu",
+    "no_hp": "08112345006",
+    "layanan_id": "L006",
+    "layanan_nama": "Smoothing",
+    "tanggal": "2026-04-20",
+    "jam": "09:00",
+    "status": "Terkonfirmasi",
+    "total_harga": 300000,
+    "estimasi_selesai": "11:30"
+  },
+  {
+    "booking_id": "BK029",
+    "nama_pelanggan": "Budi Santoso",
+    "no_hp": "089087654321",
+    "layanan_id": "L002",
+    "layanan_nama": "Potong Rambut Pria",
+    "tanggal": "2026-04-15",
+    "jam": "10:00",
+    "status": "Terkonfirmasi",
+    "total_harga": 50000,
+    "estimasi_selesai": "10:30"
+  }
+]

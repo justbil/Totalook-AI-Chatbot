@@ -1,0 +1,98 @@
+[
+  {
+    "id": "L001",
+    "nama": "Potong Rambut Wanita",
+    "harga": 75000,
+    "durasi": 45,
+    "kategori": "Potong",
+    "deskripsi": "Potong rambut wanita termasuk cuci & blow dry oleh stylist berpengalaman."
+  },
+  {
+    "id": "L002",
+    "nama": "Potong Rambut Pria",
+    "harga": 50000,
+    "durasi": 30,
+    "kategori": "Potong",
+    "deskripsi": "Potong rambut pria rapi sesuai selera dengan berbagai model populer."
+  },
+  {
+    "id": "L003",
+    "nama": "Creambath",
+    "harga": 120000,
+    "durasi": 60,
+    "kategori": "Perawatan",
+    "deskripsi": "Perawatan rambut intensif dengan pijat kepala dan steam untuk nutrisi maksimal."
+  },
+  {
+    "id": "L004",
+    "nama": "Cat Rambut",
+    "harga": 200000,
+    "durasi": 90,
+    "kategori": "Warna",
+    "deskripsi": "Pewarnaan rambut dengan pilihan warna lengkap dan treatment setelahnya."
+  },
+  {
+    "id": "L005",
+    "nama": "Keriting Permanen",
+    "harga": 250000,
+    "durasi": 120,
+    "kategori": "Styling",
+    "deskripsi": "Keriting rambut permanen dengan hasil tahan lama hingga beberapa bulan."
+  },
+  {
+    "id": "L006",
+    "nama": "Smoothing",
+    "harga": 300000,
+    "durasi": 150,
+    "kategori": "Styling",
+    "deskripsi": "Pelurusan rambut semi permanen agar rambut lebih halus dan mudah diatur."
+  },
+  {
+    "id": "L007",
+    "nama": "Hair Mask",
+    "harga": 85000,
+    "durasi": 45,
+    "kategori": "Perawatan",
+    "deskripsi": "Masker rambut untuk mengatasi rambut rusak dengan kandungan keratin dan argan oil."
+  },
+  {
+    "id": "L008",
+    "nama": "Cuci & Blow Dry",
+    "harga": 40000,
+    "durasi": 30,
+    "kategori": "Dasar",
+    "deskripsi": "Cuci rambut dengan sampo premium dilanjutkan blow dry hingga rapi."
+  },
+  {
+    "id": "L009",
+    "nama": "Hair Spa",
+    "harga": 120000,
+    "durasi": 60,
+    "kategori": "Perawatan",
+    "deskripsi": "Perawatan rambut dengan masker dan pijat kepala untuk hasil sehat berkilau."
+  },
+  {
+    "id": "L010",
+    "nama": "Facial",
+    "harga": 150000,
+    "durasi": 60,
+    "kategori": "Wajah",
+    "deskripsi": "Perawatan wajah lengkap meliputi pembersihan, scrub, dan masker."
+  },
+  {
+    "id": "L011",
+    "nama": "Manicure",
+    "harga": 75000,
+    "durasi": 30,
+    "kategori": "Kuku",
+    "deskripsi": "Perawatan kuku tangan meliputi pembentukan dan pengecatan."
+  },
+  {
+    "id": "L012",
+    "nama": "Pedicure",
+    "harga": 80000,
+    "durasi": 30,
+    "kategori": "Kuku",
+    "deskripsi": "Perawatan kuku kaki meliputi pembersihan dan pengecatan."
+  }
+]
