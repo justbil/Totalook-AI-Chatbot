@@ -18,26 +18,26 @@ Aplikasi ini membantu pelanggan untuk:
 
 ## 👥 Tim & Pembagian Tugas
 
-### 🌸 Fara — Perencanaan Tools
+### 🌸 Fara Inka Aprilianingrum — Perencanaan Tools
 - Merancang daftar tools (get_layanan, buat_booking, dll)
 - Menentukan parameter input & output
 - Menyusun alur chatbot
 - Menentukan aturan bisnis
 
-### 💻 Yoan — Setup Environment
+### 💻 Felixa Yoan — Setup Environment
 - Instalasi Node.js (v18+)
 - Setup Ollama & model
 - Konfigurasi `.env`
 - Setup TypeScript & dependencies
 - Membuat frontend chat (`index.html`)
 
-### 📊 Excll — Data Dummy & JSON
+### 📊 Hiandra Excll — Data Dummy & JSON
 - Membuat `layanan.json` (12 layanan)
 - Membuat `jadwal.json`
 - Membuat `booking.json`
 - Menyesuaikan struktur data dengan TypeScript
 
-### 🖥️ Nabil — MCP Server & Frontend
+### 🖥️ Safa Muhammad Nabil — MCP Server & Frontend
 - Implementasi MCP Server (6 tools)
 - Membangun REST API (Express.js)
 - Integrasi Ollama
